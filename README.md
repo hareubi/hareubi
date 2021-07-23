@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hokagn)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-hokagn/hokagn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hokagn&bg_color=803b0e,703004,962d06,786050,7860505&border_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hokagn&layout=compact&bg_color=703000)](https://github.com/anuraghazra/github-readme-stats)
