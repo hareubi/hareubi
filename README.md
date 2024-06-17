@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-[![Anurag's github stats](https://github-readme-stats-nu-pearl-51.vercel.app/api?username=hareubi&title_color=cccccc&bg_color=000000&text_color=db691d&hide_border=true&show_icons=true&icon_color=b3b3b3&border_radius=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hareubi&layout=compact&title_color=cccccc&bg_color=000000&text_color=db691d&hide_border=true&show_icons=true&icon_color=404040&border_radius=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-nu-pearl-51.vercel.app/api?username=hareubi&title_color=cccccc&bg_color=30,6B240C,994D1C,E48F45,F5CCA0&text_color=000000&border_color=db691d&show_icons=true&icon_color=cccccc&border_radius=15&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-pearl-51.vercel.app/api/top-langs/?layout=compact&username=hareubi&title_color=cccccc&bg_color=30,6B240C,994D1C,E48F45,F5CCA0&text_color=000000&border_color=db691d&show_icons=true&icon_color=cccccc&border_radius=15&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
