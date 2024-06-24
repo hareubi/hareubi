@@ -1,9 +1,8 @@
-<h1>Hi there!</h1>
-I'm hareubi
+<h1>Hello! I'm hareubi</h1>
 
-I make games and upload videos about it
+I make games and upload videos about it 🎮
     
-<h2>links about me</h2>        
+<h2>About me</h2>        
 
 [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://gitlab.com/hareubi)        
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://hareubi.itch.io/)
